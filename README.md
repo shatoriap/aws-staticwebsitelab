@@ -9,5 +9,6 @@
 http://mystaticwebsite-lab.s3-website-us-east-1.amazonaws.com/
 <br>
 
-<p><b> Lab screenshots </b></p>
+<p><b> Lab screenshots </b></p><br>
+
 ![mystaticwebsite S3 bucket](https://user-images.githubusercontent.com/98995556/232596056-61298b2c-cbfe-423b-976e-c9dabe6dc3de.png)
