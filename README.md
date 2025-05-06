@@ -5,10 +5,8 @@
 2. Use Amazon S3 bucket to host a sample website. <br>
 3. Enable static website hosting and direct the domain to the S3 bucket. <br>
 <br>
-<p><b> Here's my website! </b></p>
+<p><b> Here's my hosted static website on AWS! </b></p>
 http://mystaticwebsite-lab.s3-website-us-east-1.amazonaws.com/ <br>
 <br>
-<p><b> Lab screenshots </b></p><br>
-<p><b> S3 Bucket objects </b></p><br>
-
+<p><b> S3 bucket objects </b></p><br>
 ![mystaticwebsite S3 bucket](https://user-images.githubusercontent.com/98995556/232596056-61298b2c-cbfe-423b-976e-c9dabe6dc3de.png)
